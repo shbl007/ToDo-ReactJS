@@ -47,12 +47,13 @@ function App() {
             placeholder="🖊️ Add item..."
           />
           <i
-            onClick={() =>
+            onClick={() =>{
               setToDos([
                 ...toDos,
                 { id: Date.now(), text: toDo, status: false },
-              ])
-            }
+              ]);
+              setToDo('')
+            }}
             className="fas fa-plus"
           ></i>
         </div>

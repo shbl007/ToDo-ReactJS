@@ -22,6 +22,8 @@ Overall, the Customizable Todo App offers a seamless and efficient solution for 
 https://github.com/shbl007/ToDo-ReactJS/assets/98837574/567924fb-14bd-4a87-a848-ee838ed3a1a6
 
 
+
+
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
